@@ -1,0 +1,12 @@
+{
+    "local": {
+        "host": "mongodb://testmile:testmile1245@ds141410.mlab.com",
+        "port": 41410,
+        "dbname": "miletest"
+    },
+    "test_local": {
+        "host": "mongodb://tester:testmile1245@ds251112.mlab.com",
+        "port": 51112,
+        "dbname": "miletest"
+    }
+}
